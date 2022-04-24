@@ -102,10 +102,10 @@ def main():
         elif short_code == "dc":
             if display_credential   ():
                print("Here is a list of all your user credentials accounts")
-               print("/n")
+               print("\n")
 
                for credentials in display_credential():
-                   print(f"{credentials.first_name} {credentials.last_name} {credentials.user_name} has credentials for this {site}")
+                   print(f"{credentials.first_name} {credentials.last_name} {credentials.user_name} has credentials for {site}")
                print("\n")
             else:
                 print("\n")
