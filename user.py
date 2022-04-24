@@ -1,7 +1,7 @@
 import random
 
 
-# User
+# User class
 class User:
     '''
     Create User that generate new instance of user
