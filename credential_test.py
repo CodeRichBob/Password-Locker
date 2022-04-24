@@ -1,4 +1,4 @@
-import unittest 
+import unittest #importing unittest module
 from credential import Credential  
 
 class TestCredential(unittest.TestCase):
