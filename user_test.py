@@ -1,4 +1,4 @@
-import unittest #
+import unittest # Import Unittest module
 from user import User #
 
 class TestUser(unittest.TestCase):
