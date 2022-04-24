@@ -56,7 +56,7 @@ class TestCredential(unittest.TestCase):
         test_credential = Credential("Robert", "Gitonga", "CodeRichBob", "robert123", "robert@ms.com")
         test_credential.save_credential()
 
-        self.new_credential.delete_credential() #Deleting credential object
+        self.new_credential.delete_credential() #Deleting credential
         self.assertEqual(len(Credential.credential_list), 1)
 
     def test_find_credentials_by_email(self):
