@@ -13,7 +13,7 @@ class TestCredential(unittest.TestCase):
         '''
         Set up method to run before each test cases.
         '''
-        self.new_credential = Credential("Robert", "Gitonga", "Coderichbob", "robert123", "robert@ms.com") 
+        self.new_credential = Credential("Robert", "Gitonga", "Coderichbob", "robert123", "robert@ms.com") # New Credential
 
     def test_init(self):
         '''
