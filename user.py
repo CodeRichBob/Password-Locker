@@ -7,7 +7,7 @@ class User:
     Create User that generate new instance of user
     '''
 
-    user_list = [] #    
+    user_list = [] # empty list   
 
     def __init__(self, user_name, email, password):
         '''
