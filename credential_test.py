@@ -31,7 +31,7 @@ class TestCredential(unittest.TestCase):
         Test if credential object is saved in credential_list
         '''
         self.new_credential.save_credential() 
-        self.assertEqual(len(Credential.credential_list), 1)
+        self.assertEqual(len(Credential.credential_list), 1) #save new credential
 
     def test_save_multiple_credential(self):
         '''
