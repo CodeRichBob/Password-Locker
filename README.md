@@ -30,3 +30,7 @@ This is an application that will help someone manage their passwords and even ge
 ## Technologies Used
 
 - Python3.10
+
+## Known Bugs
+
+- There are currently no known bugs but any contributions are welcome
