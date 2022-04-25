@@ -34,3 +34,7 @@ This is an application that will help someone manage their passwords and even ge
 ## Known Bugs
 
 - There are currently no known bugs but any contributions are welcome
+
+## Contact Information
+
+If you have any question or contributions, get in touch at rgitonga07@gmail.com
