@@ -38,3 +38,8 @@ This is an application that will help someone manage their passwords and even ge
 ## Contact Information
 
 If you have any question or contributions, get in touch at rgitonga07@gmail.com
+
+## License
+
+- MIT License:
+- Copyright &copy; 2022 Robert Gitonga
