@@ -20,3 +20,13 @@ This is an application that will help someone manage their passwords and even ge
 - git clone https://github.com/CodeRichBob/Password-Locker.git
 - cd Password-Locker
 - Open using your preffered code editor
+
+### Running the Application
+
+- Open the clone file in your terminal and run the following command:
+  - $ chmod +x run.py
+  - $ ./run.py
+
+## Technologies Used
+
+- Python3.10
